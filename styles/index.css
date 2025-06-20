@@ -498,6 +498,7 @@ span {
 }
 
 .footer-social-media {
+    display: none;
     width: 200px;
     margin: 1rem auto;
 }
