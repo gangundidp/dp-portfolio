@@ -497,5 +497,8 @@ span {
     color: var(--second-bg-color);
 }
 
-
+.footer-social-media {
+    width: 200px;
+    margin: 1rem auto;
+}
 
